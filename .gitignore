@@ -1,0 +1,4 @@
+walkthrough_env
+__pycache__
+.env
+DATABASE_URI=postgresql+psycopg2://postgres:hell33174450@127.0.0.1:5432/CIApi_inventory
